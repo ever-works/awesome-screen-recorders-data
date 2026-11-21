@@ -1,0 +1,13 @@
+name: "Tella"
+description: "Tella is an asynchronous video recording tool for creating screen and camera videos with built-in editing. It is aimed at remote teams and educators who need to share video updates. It offers a free plan and paid subscriptions."
+source_url: "https://tella.tv/"
+category: "Async Video Messaging"
+tags:
+  - "freemium"
+  - "async-video"
+  - "screen-recording"
+  - "video-editing"
+  - "remote-work"
+icon_url: "https://icons.duckduckgo.com/ip3/tella.tv.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://tella.tv/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:01"

@@ -1,0 +1,13 @@
+name: "Kap"
+description: "Kap is an open-source screen recorder for macOS that captures video and GIFs. It features a minimal interface, trimming, and direct sharing. It is developed by the community and free to use."
+source_url: "https://getkap.co/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free-plan"
+  - "macos"
+  - "screen-recording"
+  - "gif"
+icon_url: "https://icons.duckduckgo.com/ip3/getkap.co.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://getkap.co/>\n- Repository: <https://github.com/wulkano/kap>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 14:01"

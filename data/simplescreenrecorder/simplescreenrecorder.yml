@@ -1,0 +1,13 @@
+name: "SimpleScreenRecorder"
+description: "SimpleScreenRecorder is an open-source screen recorder for Linux with a Qt interface. It supports recording the entire screen, a window, or a custom area with audio. It is free and released under the GNU GPL."
+source_url: "https://www.maartenbaert.be/simplescreenrecorder"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free-plan"
+  - "linux"
+  - "screen-recording"
+  - "qt"
+icon_url: "https://icons.duckduckgo.com/ip3/www.maartenbaert.be.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.maartenbaert.be/simplescreenrecorder>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 14:01"

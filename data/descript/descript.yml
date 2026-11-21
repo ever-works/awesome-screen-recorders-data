@@ -1,0 +1,13 @@
+name: "Descript"
+description: "Descript is an AI-powered audio and video editor that transcribes recordings and allows editing by modifying text. It includes screen recording, multitrack editing, and voice synthesis. It serves podcasters, video creators, and teams."
+source_url: "https://www.descript.com/"
+category: "AI Video Editing for Recordings"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "video-editing"
+  - "transcription"
+  - "screen-recording"
+icon_url: "https://icons.duckduckgo.com/ip3/www.descript.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.descript.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:01"

@@ -1,0 +1,13 @@
+name: "Clipchamp"
+description: "Clipchamp is a browser-based video editor owned by Microsoft with screen and webcam recording. It includes AI-powered features like auto captions and text-to-speech. It offers a free tier and paid premium plans."
+source_url: "https://clipchamp.com/"
+category: "AI Video Editing for Recordings"
+tags:
+  - "ai-powered"
+  - "freemium"
+  - "video-editor"
+  - "screen-recording"
+  - "browser-based"
+icon_url: "https://icons.duckduckgo.com/ip3/clipchamp.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://clipchamp.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:01"

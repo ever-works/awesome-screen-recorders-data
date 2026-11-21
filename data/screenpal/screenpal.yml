@@ -1,0 +1,13 @@
+name: "ScreenPal"
+description: "ScreenPal, formerly Screencast-O-Matic, is a screen recorder and video editor for creating tutorials and demonstrations. It offers screen capture, webcam overlay, and basic editing tools. It has a free version and paid premium plans."
+source_url: "https://screenpal.com/"
+category: "Screen Recorders"
+tags:
+  - "freemium"
+  - "screen-recording"
+  - "video-editor"
+  - "tutorials"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/screenpal.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://screenpal.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:01"

@@ -1,0 +1,13 @@
+name: "Flameshot"
+description: "Flameshot is an open-source screenshot tool for Linux, Windows, and macOS with powerful annotation features. It supports customizable colors, arrows, and direct uploads to Imgur. It is free and community-maintained."
+source_url: "https://flameshot.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free-plan"
+  - "cross-platform"
+  - "screenshot"
+  - "annotation"
+icon_url: "https://icons.duckduckgo.com/ip3/flameshot.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://flameshot.org/>\n- Repository: <https://github.com/flameshot-org/flameshot>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 14:01"

@@ -1,0 +1,13 @@
+name: "Zight"
+description: "Zight, formerly CloudApp, is a visual communication tool for screen recording, screenshots, and GIF creation. It includes async video messaging, annotations, and team collaboration features. It offers a free plan and paid business tiers."
+source_url: "https://zight.com/"
+category: "Async Video Messaging"
+tags:
+  - "freemium"
+  - "screen-recording"
+  - "screenshot"
+  - "gif"
+  - "team-collaboration"
+icon_url: "https://icons.duckduckgo.com/ip3/zight.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://zight.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:01"

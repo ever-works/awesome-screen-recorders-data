@@ -1,0 +1,13 @@
+name: "Greenshot"
+description: "Greenshot is an open-source screenshot tool for Windows with annotation and export options. It allows capturing regions, windows, or full screens and sending to editors or printers. It is free and lightweight."
+source_url: "https://getgreenshot.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free-plan"
+  - "windows"
+  - "screenshot"
+  - "annotation"
+icon_url: "https://icons.duckduckgo.com/ip3/getgreenshot.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://getgreenshot.org/>\n- Repository: <https://github.com/greenshot/greenshot>\n\nLicense: GPL.\n"
+updated_at: "2026-11-21 14:01"

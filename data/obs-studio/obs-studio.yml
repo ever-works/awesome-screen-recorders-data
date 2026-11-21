@@ -1,0 +1,13 @@
+name: "OBS Studio"
+description: "OBS Studio is free and open-source software for video recording and live streaming. It supports scene composition, audio mixing, and encoding to platforms like YouTube and Twitch. It is widely used by gamers and broadcasters."
+source_url: "https://obsproject.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free-plan"
+  - "live-streaming"
+  - "screen-recording"
+  - "cross-platform"
+icon_url: "https://icons.duckduckgo.com/ip3/obsproject.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://obsproject.com/>\n- Repository: <https://github.com/obsproject/obs-studio>\n\nLicense: GPLv2.\n"
+updated_at: "2026-11-21 14:01"

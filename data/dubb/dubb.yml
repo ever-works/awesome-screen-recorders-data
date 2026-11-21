@@ -1,0 +1,13 @@
+name: "Dubb"
+description: "Dubb is a video communication platform for recording, sending, and tracking video messages. It includes screen and camera recording, video landing pages, and CRM integrations. It is a paid tool with a trial."
+source_url: "https://dubb.com/"
+category: "Async Video Messaging"
+tags:
+  - "paid"
+  - "video-messaging"
+  - "sales"
+  - "crm"
+  - "video-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/dubb.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://dubb.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:01"

@@ -1,0 +1,13 @@
+name: "CleanShot X"
+description: "CleanShot X is a macOS screenshot and screen recording tool with annotation, editing, and cloud upload. It includes a built-in editor and options to hide desktop icons during capture. It is sold as a paid license with optional cloud storage."
+source_url: "https://cleanshot.com/"
+category: "Screenshot Tools"
+tags:
+  - "paid"
+  - "macos"
+  - "screenshot"
+  - "screen-recording"
+  - "annotation"
+icon_url: "https://icons.duckduckgo.com/ip3/cleanshot.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://cleanshot.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:01"
